@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercicio01/Exercicio01.iml" filepath="$PROJECT_DIR$/Exercicio01/Exercicio01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicio02/Exercicio02.iml" filepath="$PROJECT_DIR$/Exercicio02/Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio03/Exercicio03.iml" filepath="$PROJECT_DIR$/Exercicio03/Exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio04/Exercicio04.iml" filepath="$PROJECT_DIR$/Exercicio04/Exercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio05/Exercicio05.iml" filepath="$PROJECT_DIR$/Exercicio05/Exercicio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio06/Exercicio06.iml" filepath="$PROJECT_DIR$/Exercicio06/Exercicio06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios07/Exercicios07.iml" filepath="$PROJECT_DIR$/Exercicios07/Exercicios07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista 3 - Estruturas de repeticao.iml" filepath="$PROJECT_DIR$/Lista 3 - Estruturas de repeticao.iml" />
     </modules>
   </component>
