@@ -1,9 +1,9 @@
 import java.util.Scanner;
+import java.lang.Math;
 
 public class Main {
     public static void main(String[] args) {
 
-        //Declaração de um vetor e suas posições
         int [] [] matrix = new int [5] [5];
         char empty = '-';
         char [] [] matrixEmpty = new char [5] [5];
@@ -26,12 +26,16 @@ public class Main {
 
         System.out.println(" ");
 
-        //Desenha apenas a diagonal, nos outros espaços printa '-' que está na matrixEmpty
+        /*
+        Caso o módulo de 'm - (comprimento_da_matrix - 1)' for igual a 'n', printa o número dentro de 'matrix'
+        Ex: 'm = 0'. Caso: |1 - (5 - 1)| = 4 --> 4 = 4 -->  printa 'matrix[0][4]'
+        E assim sucetivamente até printar a diagonal secundária inteira
+         */
         for (int m = 0; m < matrix.length; m++){
             for (int n = 0; n < matrix[0].length; n++){
 
-                if (n == m){
-                    System.out.print(matrix[n][n] + " ");
+                if (Math.abs(m - (matrix.length - 1)) == n){
+                    System.out.print(matrix[m][n] + " ");
                 } else {
                     System.out.print(matrixEmpty[m][n] + " ");
                 }
