@@ -3,17 +3,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String text, inversed;
+        String text;
 
         Scanner in = new Scanner(System.in);
+        Verificator verif = new Verificator();
 
         System.out.println("Digite uma frase: ");
-        text = in.next();
+        text = in.nextLine();
 
-        Verificator inversion = new Verificator();
-        inversed = inversion.inversion(text);
-
-        System.out.println(inversed);
+        verif.inversion(text);
 
     }
 }
