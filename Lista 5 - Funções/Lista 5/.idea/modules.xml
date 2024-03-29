@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex 2 - recursividade/Ex 2 - recursividade.iml" filepath="$PROJECT_DIR$/Ex 2 - recursividade/Ex 2 - recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex1/Ex1.iml" filepath="$PROJECT_DIR$/Ex1/Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1 - recursividade/Ex1 - recursividade.iml" filepath="$PROJECT_DIR$/Ex1 - recursividade/Ex1 - recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/Ex2/Ex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3 - recursividade/Ex3 - recursividade.iml" filepath="$PROJECT_DIR$/Ex3 - recursividade/Ex3 - recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex4/Ex4.iml" filepath="$PROJECT_DIR$/Ex4/Ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4 - recursividade/Ex4 - recursividade.iml" filepath="$PROJECT_DIR$/Ex4 - recursividade/Ex4 - recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5/Ex5.iml" filepath="$PROJECT_DIR$/Ex5/Ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5 - recursividade/Ex5 - recursividade.iml" filepath="$PROJECT_DIR$/Ex5 - recursividade/Ex5 - recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista 5.iml" filepath="$PROJECT_DIR$/Lista 5.iml" />
     </modules>
   </component>
